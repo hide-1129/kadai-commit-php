@@ -1,0 +1,9 @@
+最初のコミット
+
+cd kadai-commit-php  フォルダを移動する
+
+git init  リポジトリを作成し、kadai-commit-phpをGitのバージョン管理下に置きます。
+
+git add sample.php  ワークツリーから変更箇所をステージしてインデックスに移動
+
+git commit -m "add sample.php"  ステージされた変更分をコミット
