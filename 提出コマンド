@@ -7,3 +7,11 @@ git init  リポジトリを作成し、kadai-commit-phpをGitのバージョン
 git add sample.php  ワークツリーから変更箇所をステージしてインデックスに移動
 
 git commit -m "add sample.php"  ステージされた変更分をコミット
+
+2番目のコミット
+
+git add .
+
+git commit -m "update sample.php"
+
+3番目のコミット
